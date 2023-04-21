@@ -47,6 +47,10 @@ font-size: 20px;
     padding: 1em;
 }
 
+#img-mi-bebe {
+    width: 100%;
+}
+
 #footer {
     background: #6b6a6a;
     color: #ddd;
